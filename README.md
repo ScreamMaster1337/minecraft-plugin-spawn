@@ -51,3 +51,11 @@ sounds:
   teleport_countdown: BLOCK_NOTE_BLOCK_HAT
   teleport_success: ENTITY_PLAYER_LEVELUP
   teleport_cancelled: BLOCK_ANVIL_LAND
+```
+
+**Wymagania:**
+- Serwer Minecraft (wersja 1.16+)
+- Java 8+
+
+**Autor:** [ScreamMaster1337](https://github.com/ScreamMaster1337)  
+**Licencja:** MIT
